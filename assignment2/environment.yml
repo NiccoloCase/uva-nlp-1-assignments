@@ -1,0 +1,16 @@
+name: nlp_practical2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - wget
+  - scipy
+  - scikit-learn
+  - nltk
+  - tqdm
+  - pip
+  - pip:
+      - jupyter
