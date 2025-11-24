@@ -12,6 +12,7 @@ dependencies:
   - nltk
   - tqdm
   - pip
+  - pandas
   - pip:
       - jupyter
       - torch
