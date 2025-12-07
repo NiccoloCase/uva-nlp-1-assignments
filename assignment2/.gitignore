@@ -6,6 +6,7 @@
 !environment.yml
 !models
 !models/*
+!models/**/*
 !*.numbers
 !*.csv
 !*.pdf
